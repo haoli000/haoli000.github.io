@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: 3GPP CHF CDR Decoder
+description: A Web front to charging function record ASN.1 BER CDR to JSON decoder in development.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://li-hao-.github.io
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  GitHub Site: https://github.com/li-hao-/
